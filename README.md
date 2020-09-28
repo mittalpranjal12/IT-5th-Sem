@@ -1,2 +1,2 @@
 # IT-5th-Sem
-Codes of ADA and Java Lab for 5th Sem-BVCOE
+ADA and Java Lab codes for 5th Sem-BVCOE
